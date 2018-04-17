@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39223" started-at="2018-02-27T09:36:14Z" finished-at="2018-02-27T09:36:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39223" started-at="2018-02-27T09:36:14Z" finished-at="2018-02-27T09:36:53Z">
+      <class name="testCases.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testCases.NewTest@482f8f11]" name="beforeClass" is-config="true" duration-ms="9270" started-at="2018-02-27T15:06:14Z" finished-at="2018-02-27T15:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyFBPage()[pri:0, instance:testCases.NewTest@482f8f11]" name="openMyFBPage" duration-ms="29240" started-at="2018-02-27T15:06:23Z" finished-at="2018-02-27T15:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyFBPage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testCases.NewTest@482f8f11]" name="afterClass" is-config="true" duration-ms="664" started-at="2018-02-27T15:06:53Z" finished-at="2018-02-27T15:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testCases.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
